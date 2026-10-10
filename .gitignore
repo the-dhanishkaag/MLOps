@@ -5,5 +5,3 @@ __pycache__/
 .pytest_cache/
 .env
 
-# MLflow generated artifacts
-P06-mlflow/mlruns/
